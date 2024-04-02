@@ -1,2 +1,4 @@
-# Application-of-Simple-Cryptographie-Algorithm
-is basic intarface , to crypt and decrypt with simple cryptoghraphie algorithme by Mehdi Nacer Kerkar
+# Application of Simple Cryptographic Algorithm
+
+With a basic interface, you encrypt and decrypt with simple (Cesar & Vegener) cryptoghraphic algorithm 
+By Mehdi Nacer KERKAR
