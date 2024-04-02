@@ -1,4 +1,4 @@
 # Application of Simple Cryptographic Algorithm
 
-With a basic interface, you encrypt and decrypt with simple (Cesar & Vegener) cryptoghraphic algorithm 
+With a basic interface, you can encrypt and decrypt with simple cryptoghraphic algorithm (Cesar & Vegener)
 By Mehdi Nacer KERKAR
